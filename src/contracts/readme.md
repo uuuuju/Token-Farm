@@ -1,1 +1,2 @@
-.
+There are three contracts written in this project namely DaiToken.sol for the DAI Token, DappToken.sol for the DAPP Token, and TokenFarm.sol. DAI is a stable cryptocurrency that is pegged to the US Dollar and runs on top of Ethereum. It is powered by a smart contract, the ERC-20 Token. The DAPP Token, which is also based on the ERC-20 Token, is a fictitious cryptocurrency created for this project. Users get incentivized with DAPP Tokens once they stake some DAI tokens in the bank. They can withdraw their DAI tokens later and have both the tokens after a period of time. The TokenFarm.sol is the contract that carries out the yield farming part and acts as a digital bank. A fictitious DAI or mock DAI token has been used in this project instead of the real DAI Token.
+
